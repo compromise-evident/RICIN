@@ -1,4 +1,4 @@
-/*Import the produced file as raw data using Audacity with settings:
+/*Import this produced file as raw data using Audacity with settings:
 
   Encoding:  Unsigned 8-bit PCM
 Byte order:  Little-endian
