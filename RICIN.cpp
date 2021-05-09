@@ -7,6 +7,18 @@
 Tape a headphone to a tiny cylinder-microphone face-to-face and wrap it with any
 soft high-density fabric,  close it in a jar, and smother it with heavy pillows!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* WARNING:  always assume the proprietary software on your proprietary design is
+  broadcasting your computer details  as it assumes that something is listening,
+  and perhaps sending back instructions undermining your  privacy, security, and
+  freedom from classification--such as the list  "compromised dumbass citizens."
+  Now that you know  security is impossible through any attempt to assemble your
+  proprietary things in some clever way, you are  encouraged  only to send files
+  one way from online to offline machines only! Online machine pass instructions
+  when you're not looking--only to never hear back--otherwise your  offline keys
+  may be transmitted as the  offline machine might attempt to encode data on top
+  of what's already being sent such as the frequencies and timing between spikes
+  and silent moments of your mp3 files. Anything  proprietary  is the only risk.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 How to run the program  -  Software package repositories for GNU+Linux operating
 systems have all the tools you can imagine. Open a terminal and use this command
 as root to install Geany and g++ on your computer: apt install geany g++   Geany
