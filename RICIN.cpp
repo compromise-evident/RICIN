@@ -6,6 +6,7 @@
 /*Version 3, gets 220kB from 10-min recording if 4 zeros/byte (366B/s, 1MB/45m.)
 Tape a headphone to a tiny cylinder-microphone face-to-face and wrap it with any
 soft high-density fabric,  close it in a jar, and smother it with heavy pillows!
+Automate RICIN systems with a GUI human activity emulator:   apt install actiona
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * WARNING:  always assume the proprietary software on your proprietary design is
   broadcasting your computer details  as it assumes that something is listening,
