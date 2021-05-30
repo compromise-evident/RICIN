@@ -7,6 +7,7 @@
 Tape a headphone to a tiny cylinder-microphone face-to-face and wrap it with any
 soft high-density fabric,  close it in a jar, and smother it with heavy pillows!
 Automate RICIN systems with a GUI human activity emulator:   apt install actiona
+Compress original files with   .tar.bz2  for maimum reduction in transfer times.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * WARNING:  always assume the proprietary software on your proprietary design is
   broadcasting your computer details  as it assumes that something is listening,
