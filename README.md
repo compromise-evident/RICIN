@@ -4,7 +4,7 @@ Transfer any file through sound between online and secure offline machines - Res
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/da8e8e37e9e01507)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/ba56244714b6537b)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/RICIN/blob/main/Other/Materials.jpeg">
